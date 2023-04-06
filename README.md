@@ -1,10 +1,11 @@
 # VaeiBoneTools
 A plugin that can convert your sockets to bones for exporting to 3D Software. Especially helpful for matching weapon attachment transforms.
 
-UE5.1 onwards.
-
 ## Disclaimer
 This can cause serious damage, read the warnings on the widget and backup your project before using.
+
+## Supported Engine Versions
+* 5.1
 
 ## Installation
 Clone or download the plugin to PROJECTNAME\Plugins\ and build from source.
